@@ -8,13 +8,22 @@ First Semester
 
 ### Level 00: Thinking Like A Designer
 
-What do game designers do? What is it that we are trying to make?
+What does a game designer do? What does a game developer do? What is it that we are trying to make? What are we not going to worry about?
 
-Bartok playtest.
+Game design is about iteration.
+
+#### Bartok playtest.
 
 The feel of a game - mechanics vs. aesthetics. Language to describe feel.  Ideas about how to modify the feel.
 
-Intro to computers and Canvas.
+Possible feels:
+* Exciting & cutthroat
+* Leisurly and slow
+* Strategy vs. chance
+
+Pick a feel, develop some new mechanics (rules) that you think might move the game in the direction that you want. 
+
+#### Intro to computers and Canvas.
 
 Assignment to create a new set of rules for Bartok to make it "better".
 
