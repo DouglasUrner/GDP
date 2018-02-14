@@ -1,6 +1,8 @@
 Game Design & Programming
 =========================
 
+Inspired by Jeremy Gibson Bond's Introduction to Game Design, Prototyping, and Development and experimental online course.
+
 First Semester
 --------------
 
@@ -38,3 +40,5 @@ Intro / review of Canvas. Good looking new set of rules.
 ### Level 11: Acting Like A Designer
 
 Review of design process, create a game prototype with interesting decisions. Focus on movement and inner loop.
+
+Complete exercise with a gallery walk and pitches.
