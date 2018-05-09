@@ -6,5 +6,7 @@ It may help you generate ideas if you have a specific game industry job in mind 
 
 - [Job roles][creativeskillset] - **creative skillset** website is a resource for people looking for "creative" jobs. Besides the Job Roles page you may find the links for _Real life stories_ and _Ways into the games industry_ interesting.
 
+Select a job to be the focus of your mind map. Then complete the assignment briefly describing the career you selected in the text entry box.
+
 [gamasutra]: <https://www.gamasutra.com/view/feature/131164/career_paths_in_the_game_industry.php>
 [creativeskillset]: <http://creativeskillset.org/creative_industries/games/job_roles>
