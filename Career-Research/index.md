@@ -4,7 +4,7 @@ It may help you generate ideas if you have a specific game industry job in mind 
 
 - [Career Paths in the Game Industry][gamasutra] - Gamasutra is a game industry web site with a lot of good information aimed at professional game developers (and people who aspire to be them). The article is on the long side, take a moment to look up the word _archetype_ and then chekk out the headings for the various job areas.
 
-- [Job roles][creativeskillset] - **creative skillset** is a resource for people looking for "creative" jobs. Besides the Job Roles page you may find the links for _Real life stories_ and _Ways into the games industry_ interesting.
+- [Job roles][creativeskillset] - **creative skillset** website is a resource for people looking for "creative" jobs. Besides the Job Roles page you may find the links for _Real life stories_ and _Ways into the games industry_ interesting.
 
 [gamasutra]: <https://www.gamasutra.com/view/feature/131164/career_paths_in_the_game_industry.php>
 [creativeskillset]: <http://creativeskillset.org/creative_industries/games/job_roles>
